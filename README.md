@@ -1,0 +1,1 @@
+# Machine-Learning-Based-Process-Scale-Up-of-Stirred-Reactor-From-1L-to-7000L
