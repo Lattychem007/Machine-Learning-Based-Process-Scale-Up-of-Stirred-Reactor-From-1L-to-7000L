@@ -1,4 +1,6 @@
 # Machine Learning-Based Process Scale-Up of Stirred Reactor From 1L to 7000L
+![image](https://github.com/user-attachments/assets/7dfcce4a-194a-452f-a37c-f3c4c7f5a445)
+
 ## 📌 Project Overview
 This project applies **machine learning (ML) techniques** to predict **turbulence characteristics** in a stirred reactor, facilitating **scaling from lab-scale (1L) to industrial-scale (7000L) reactors**.
 
@@ -13,11 +15,11 @@ This approach eliminates the need for expensive and time-consuming CFD simulatio
 ---
 
 ## 🚀 Features
-✅ Predict turbulence parameters from **impeller RPM**
-✅ Scale-up insights for reactors of different sizes
-✅ **Random Forest Regressor** for accurate predictions
-✅ Data visualization for model evaluation
-✅ Saves time & computational resources by reducing CFD simulations
+-- Predict turbulence parameters from **impeller RPM**
+-- Scale-up insights for reactors of different sizes
+-- **Random Forest Regressor** for accurate predictions
+-- Data visualization for model evaluation
+-- Saves time & computational resources by reducing CFD simulations
 
 ---
 
