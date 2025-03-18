@@ -15,11 +15,11 @@ This approach eliminates the need for expensive and time-consuming CFD simulatio
 ---
 
 ## 🚀 Features
-** Predict turbulence parameters from **impeller RPM**
-** Scale-up insights for reactors of different sizes
-** **Random Forest Regressor** for accurate predictions
-** Data visualization for model evaluation
-** Saves time & computational resources by reducing CFD simulations
+- ** Predict turbulence parameters from **impeller RPM**
+- ** Scale-up insights for reactors of different sizes
+- ** **Random Forest Regressor** for accurate predictions
+- ** Data visualization for model evaluation
+- ** Saves time & computational resources by reducing CFD simulations
 
 ---
 
