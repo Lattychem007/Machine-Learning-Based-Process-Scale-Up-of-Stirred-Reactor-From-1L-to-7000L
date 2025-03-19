@@ -72,24 +72,13 @@ The dataset contains fluid dynamics parameters for different **impeller speeds (
 
 ---
 
-## 🔧 Installation & Usage
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/yourusername/stirred-reactor-ml.git
-cd stirred-reactor-ml
-```
 
-### 2️⃣ Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Model
+###  Run the Model
 ```python
 python train_model.py
 ```
 
-### 4️⃣ Visualize Predictions
+###  Visualize Predictions
 ```python
 python plot_results.py
 ```
