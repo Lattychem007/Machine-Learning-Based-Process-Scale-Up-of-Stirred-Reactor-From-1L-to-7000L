@@ -1,4 +1,4 @@
-# Machine Learning-Based Process Scale-Up of Stirred Tank Reactor From 1L to 7000L
+# Machine Learning-Based Process Scale-Up of Stirred Tank Reactor 
 ![image](https://github.com/user-attachments/assets/7dfcce4a-194a-452f-a37c-f3c4c7f5a445)
 
 ## 📌 Project Overview
